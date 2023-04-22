@@ -1,12 +1,3 @@
 {
-  "tasks": [
-    {
-      "id": "3f7a9c1a-cf23-4858-915a-315bc34d0b4e",
-      "text": "say hello"
-    },
-    {
-      "id": "79d8860b-922f-4c83-8b4c-d749b41940d3",
-      "text": "say goodbye !"
-    }
-  ]
+  "tasks": []
 }
